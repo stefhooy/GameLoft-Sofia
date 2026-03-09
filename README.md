@@ -59,7 +59,7 @@ This repository contains the full solution to the Gameloft Sofia Data Analyst ta
 | Rescue Chapter 5 cliff — reward before Mission 17 (50% recovery) | +$33,768 |
 | Introduce 75-gem skip tier in top Chapter 2 missions | +$38,076 |
 | Discounted first-skip offer for Lvl 2–11 players | +$97,995 |
-| **Total projected uplift** | **+$184,634 (+82.4%)** |
+| **Total projected uplift** | **+$184,634** |
 
 ---
 
