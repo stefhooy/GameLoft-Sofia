@@ -18,8 +18,8 @@ This repository contains the full solution to the Gameloft Sofia Data Analyst ta
 
 ```
 .
-├── Test for Data Analyst.pdf              # Original test brief
-├── Event_Performance_Review PPT.pptx     # Final presentation deck
+├── Test for Data Analyst.pdf                 # Original test brief
+├── Event_Performance_Review.pdf              # Final presentation deck
 ├── Gameloft_Sofia_Event_Visualizations.pbix  # Power BI dashboard
 └── Part_2_EDA/
     ├── Game Event Analysis.ipynb         # Full Python analysis (Parts 1 & 2)
@@ -30,7 +30,7 @@ This repository contains the full solution to the Gameloft Sofia Data Analyst ta
     ├── churn_heatmap_levelgroup.png      # Q1b: Churn rate heatmap by level group × chapter
     ├── revenue_by_levelgroup.png         # Q2b: Revenue and skip rate by level group
     ├── revenue_top15_missions.png        # Top 15 missions by revenue
-    └── recommendations_impact.png       # Expected impact of 4 recommendations
+    └── recommendations_impact.png        # Expected impact of 4 recommendations
 ```
 
 ---
